@@ -1,4 +1,5 @@
 # NeoChat app: Group Chat application 💬 using websockets (Nodejs, Express & Socket.io)
+<img width="2432" height="1120" alt="image" src="https://github.com/user-attachments/assets/294fb5bf-eba8-4ede-a2f7-b6ba2d2fab77" />
 
 ## To start setting up the project
 
